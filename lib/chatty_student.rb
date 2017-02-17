@@ -8,6 +8,7 @@ puts "How are you doing today? I'm okay, but I'm kind of tired. Did you watch Th
 def raise_hand
 
   10.times {super}
+  #  or 10.times {puts "Pick me!"} or 10.times do |s|  puts "Pick me!"end  or "we can put super 10 "
 end
 
 end
